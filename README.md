@@ -20,7 +20,7 @@ The R packages used in this repository are shown below:
 
 # Publications
 
-Talavera, A., Soorni, A., Bombarely, A. *et al*. Genome-Wide SNP discovery and genomic characterization in avocado (*Persea americana* Mill.). Sci Rep 9, 20137 (2019). https://doi.org/10.1038/s41598-019-56526-4
+Talavera, A., Soorni, A., Bombarely, A., Matas A. J. & Hormaza J. I. (2019) Genome-Wide SNP discovery and genomic characterization in avocado (*Persea americana* Mill.). Sci Rep 9, 20137. https://doi.org/10.1038/s41598-019-56526-4
 
 # Acknowledgements
 
